@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Jindal</h1>
 <h3 align="center">A computer science student passionate about programming and design</h3>
 
-- 💬 Ask me about *C++, C, Java, React, Html, Css, Js, DS, Python*
+- 💬 Ask me about *Java, JavaScript React, Html, Css, Node.js*
 
 - 📫 How to reach me *gautamjindal0703@gmail.com*
 
