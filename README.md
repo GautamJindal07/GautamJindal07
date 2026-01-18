@@ -11,7 +11,7 @@ analytics, automation, and interactive dashboards.
 
 📊 **Data Analysis** – Analyze large datasets to identify trends, patterns, and insights.  
 ⚙️ **Automation** – Automate repetitive data operations using Python to save time and reduce errors.  
-📈 **Dashboards & Reporting** – Build interactive dashboards for stakeholders using Tableau & Power BI.  
+📈 **Dashboards & Reporting** – Build interactive dashboards for stakeholders using Tableau.  
 🧹 **Data Cleaning** – Clean, validate, and standardize messy datasets for accurate analysis.  
 💡 **Decision Support** – Enable data-driven business and operational decision-making.
 
