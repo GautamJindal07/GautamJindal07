@@ -1,4 +1,3 @@
-<div align="center">
 ## 👋 Hi, I'm Gautam Jindal
 
 **Data Analyst** | SQL • Python • Excel • Tableau  
@@ -7,7 +6,7 @@ I turn raw data into **clean, reliable, and actionable insights** through
 analytics, automation, and interactive dashboards.
 
 ---
-</div>
+
 ## 🧠 What I Do
 
 📊 **Data Analysis** – Analyze large datasets to identify trends, patterns, and insights.  
