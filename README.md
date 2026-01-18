@@ -1,28 +1,20 @@
+<div align="center">
 ## 👋 Hi, I'm Gautam Jindal
 
 **Data Analyst** | SQL • Python • Excel • Tableau  
 
 I turn raw data into **clean, reliable, and actionable insights** through  
 analytics, automation, and interactive dashboards.
-
+</div>
 ---
 
 ## 🧠 What I Do
 
-### 📊 Data Analysis
-Analyze large datasets to identify trends, patterns, and insights.
-
-### ⚙️ Automation
-Automate repetitive data operations using Python to save time and reduce errors.
-
-### 📈 Dashboards & Reporting
-Build interactive dashboards for stakeholders using Tableau & Power BI.
-
-### 🧹 Data Cleaning
-Clean, validate, and standardize messy datasets for accurate analysis.
-
-### 💡 Decision Support
-Enable data-driven business and operational decision-making.
+📊 **Data Analysis** – Analyze large datasets to identify trends, patterns, and insights.  
+⚙️ **Automation** – Automate repetitive data operations using Python to save time and reduce errors.  
+📈 **Dashboards & Reporting** – Build interactive dashboards for stakeholders using Tableau & Power BI.  
+🧹 **Data Cleaning** – Clean, validate, and standardize messy datasets for accurate analysis.  
+💡 **Decision Support** – Enable data-driven business and operational decision-making.
 
 ---
 
@@ -33,7 +25,7 @@ Enable data-driven business and operational decision-making.
 </p>
 
 **Also experienced with:**  
-Excel • Tableau • Power BI • Google Analytics • Trino • SQL Engines • Data Processing & Analytics
+Excel • Tableau • Python • Google Analytics • Trino • SQL • Data Processing & Analytics
 
 ---
 
