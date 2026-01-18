@@ -1,41 +1,64 @@
-## 👋 Hi, I'm Gautam Jindal  
+## 👋 Hi, I'm Gautam Jindal
 
 **Data Analyst** | SQL • Python • Excel • Tableau  
 
 I turn raw data into **clean, reliable, and actionable insights** through  
 analytics, automation, and interactive dashboards.
 
+---
+
 ## 🧠 What I Do
 
-📊 **Data Analysis**  
+### 📊 Data Analysis
 Analyze large datasets to identify trends, patterns, and insights.
 
-⚙️ **Automation**  
+### ⚙️ Automation
 Automate repetitive data operations using Python to save time and reduce errors.
 
-📈 **Dashboards & Reporting**  
+### 📈 Dashboards & Reporting
 Build interactive dashboards for stakeholders using Tableau & Power BI.
 
-🧹 **Data Cleaning**  
+### 🧹 Data Cleaning
 Clean, validate, and standardize messy datasets for accurate analysis.
 
-💡 **Decision Support**  
+### 💡 Decision Support
 Enable data-driven business and operational decision-making.
 
-🛠 Languages & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,mysql,oracle,tableau,excel,databricks,github" /> </p>
+---
 
-Also experienced with:
-Google Analytics • Trino • SQL Engines • Data Processing & Analytics
+## 🛠 Languages & Tools
 
-📌 Featured Work
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,github" />
+</p>
 
-📊 Tableau Dashboards
-📂 SQL Case Studies
-🔁 Python Automation Scripts
-📈 Business & Operations Analytics
+**Also experienced with:**  
+Excel • Tableau • Power BI • Google Analytics • Trino • SQL Engines • Data Processing & Analytics
 
+---
 
-🤝 Connect With Me
-<p> <a href="https://www.linkedin.com/in/gautam-jindal-512782221/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/> </a> <a href="mailto:gautamjindal0703@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png"/> </a> </p>
+## 📌 Featured Work
+
+- 📊 **Tableau Dashboards**
+- 📂 **SQL Case Studies**
+- 🔁 **Python Automation Scripts**
+- 📈 **Business & Operations Analytics**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gautam-jindal-512782221" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:gautamjindal0703@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamJindal07&show_icons=true&theme=default)
