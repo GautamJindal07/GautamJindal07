@@ -20,7 +20,7 @@ analytics, automation, and interactive dashboards.
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,tableau,excel" />
 </p>
 
 **Also experienced with:**  
