@@ -1,15 +1,32 @@
-<h1 align="center">Hi 👋, I'm Gautam Jindal</h1>
-<h3 align="center">A computer science student passionate about programming and design</h3>
+![Data Analyst Banner](https://user-images.githubusercontent.com/placeholder/data-analytics-banner.png)
+👋 Hi, I'm Gautam Jindal
 
-- 💬 Ask me about *Java, JavaScript React, Html, Css, Node.js*
+📊 Data Analyst | SQL • Python • Excel • Tableau
 
-- 📫 How to reach me *gautamjindal0703@gmail.com*
+Turning raw data into clean, reliable, and actionable insights through analytics, automation, and dashboards.
+🧠 What I Do
+<img align="right" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/data.gif"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gautam-jindal-512782221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-jindal-512782221" height="30" width="40" /></a>
-<a href="https://instagram.com/_gautamjindal07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gautam Jindal" height="30" width="40" /></a>
-</p>
+📊 Analyze large datasets to uncover insights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+⚙️ Automate manual data operations using Python
+
+📈 Build interactive dashboards for stakeholders
+
+🧹 Clean, validate, and standardize messy data
+
+💡 Support business & operational decision-making
+🛠️ Languages & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45"/> </p> <p> <img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau"/> <img src="https://img.shields.io/badge/Data%20Cleaning-EDA-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Automation-Python-success?style=for-the-badge"/> </p>
+📌 Featured Work
+
+📊 Tableau Dashboards
+📂 SQL Case Studies
+🐍 Python Automation Scripts
+📈 Business & Operations Analytics
+
+(Pin these repos on your profile — very important)
+
+🤝 Connect With Me
+<p> <a href="https://www.linkedin.com/in/YOUR-LINK"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/> </a> <a href="mailto:gautamjindal0703@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png"/> </a> </p>
+![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamJindal07&show_icons=true&theme=default)
