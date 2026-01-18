@@ -5,9 +5,9 @@
 
 I turn raw data into **clean, reliable, and actionable insights** through  
 analytics, automation, and interactive dashboards.
-</div>
----
 
+---
+</div>
 ## 🧠 What I Do
 
 📊 **Data Analysis** – Analyze large datasets to identify trends, patterns, and insights.  
