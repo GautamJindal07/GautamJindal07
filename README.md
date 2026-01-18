@@ -1,24 +1,28 @@
-![Data Analyst Banner](https://user-images.githubusercontent.com/placeholder/data-analytics-banner.png)
-👋 Hi, I'm Gautam Jindal
+## 👋 Hi, I'm Gautam Jindal  
 
-📊 Data Analyst | SQL • Python • Excel • Tableau
+**Data Analyst** | SQL • Python • Excel • Tableau  
 
-Turning raw data into clean, reliable, and actionable insights through analytics, automation, and dashboards.
+I turn raw data into **clean, reliable, and actionable insights** through  
+analytics, automation, and interactive dashboards.
 
-🧠 What I Do
-<img align="right" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/data.gif"/>
+## 🧠 What I Do
 
-📊 Analyze large datasets to uncover insights
+📊 **Data Analysis**  
+Analyze large datasets to identify trends, patterns, and insights.
 
-⚙️ Automate manual data operations using Python
+⚙️ **Automation**  
+Automate repetitive data operations using Python to save time and reduce errors.
 
-📈 Build interactive dashboards for stakeholders
+📈 **Dashboards & Reporting**  
+Build interactive dashboards for stakeholders using Tableau & Power BI.
 
-🧹 Clean, validate, and standardize messy data
+🧹 **Data Cleaning**  
+Clean, validate, and standardize messy datasets for accurate analysis.
 
-💡 Support business & operational decision-making
-🛠️ Languages & Tools
-### 🛠️ Languages & Tools
+💡 **Decision Support**  
+Enable data-driven business and operational decision-making.
+
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
