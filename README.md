@@ -21,7 +21,7 @@ analytics, automation, and interactive dashboards.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" height="48" alt="Tableau"/>
 </p>
 
 
