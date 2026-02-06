@@ -52,4 +52,6 @@ Excel • Tableau • Python • Google Analytics • Trino • SQL • Data Pro
 
 ## 📊 GitHub Stats
 
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamJindal07&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamjindal0703&show_icons=true&theme=tokyonight" />
+</p>
